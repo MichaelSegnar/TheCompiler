@@ -1,0 +1,20 @@
+program A(X, Y);
+var C : 3;
+
+procedure D(L:2;R:3.1);
+var E : 3.4;
+begin
+	call D(3);
+	while E < 4 do
+		E := E + 0.2
+end;
+
+begin
+	begin
+		BOOL := 1 > C
+	end;
+	if not BOOL then
+		C := 1
+	else
+		C := 0 	
+end.

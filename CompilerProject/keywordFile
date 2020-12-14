@@ -1,0 +1,14 @@
+"if" if 60 NULL 23
+"then" then 61 NULL 23
+"else" else 62 NULL 23
+"var" var 63 NULL 23
+"begin" begin 64 NULL 23
+"end" end 65 NULL 23
+"of" of 66 NULL 23
+"array" array 67 NULL 23
+"procedure" procedure 68 NULL 23
+"while" while 69 NULL 23
+"do" do 70 NULL 23
+"not" not 71 NULL 23
+"call" call 72 NULL 23
+"program" program 73 NULL 23
